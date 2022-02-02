@@ -6,7 +6,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #e6d1be !important;
+    background-color: #fff !important;
 }
 
 .logo {
@@ -16,20 +16,20 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 30px;
-} 
+}
 
 ul {
     max-height: 15px;
     text-align: center;
 }
-    
+
 li {
     width: 20%;
     display: inline-block; /* centraliza na horizontal */
 }
 
 .icones {
-    color: #624604;
+    color: #073577;
     max-width: 3rem;
     font-size: 30px;
     padding-bottom: 50px;
